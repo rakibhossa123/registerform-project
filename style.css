@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+	width: 100%;
+	height: 700px;
+	background: #5f7077;
+	/* border: 2px solid green; */
+	color: #eae3e3;
+	padding:100px;
+	/* display: flex; */
+	margin: 10%;
+	
+}
+.form-group{
+	padding: 2px;
+	margin: 1%;
+	width: 100%;
+
+}
